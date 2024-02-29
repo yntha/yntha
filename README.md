@@ -3,7 +3,7 @@
 
 ```yml
 :/ $ cd sdcard
-:/sdcard $ ls --color=always
+:/sdcard $ ls
 Alarms Android DCIM Documents Download Movies Music Notifications
 Pictures Podcasts Ringtones
 :/sdcard $ cat Android/data/com.github.yntha/yntha.txt
