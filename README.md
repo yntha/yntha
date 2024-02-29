@@ -1,5 +1,4 @@
-<div style="display: flex; align-items: center;">
-<img align="left" height="50%" width="50%" src="tiger.png" alt="tiger" style="float: left;"/>
+<img align="left" height="48%" width="48%" src="tiger.png" alt="tiger" />
 <h align="left" style="margin-left: 20px;">
 
 ```yml
@@ -45,9 +44,9 @@ Skills:
         - Packets (TCP, UDP, Custom Protocols, etc.)
 ```
 </h>
-</div>
 
 -------
-<div style="text-align: center; margin-top: 20px;">
-  <img src="firedroid.png" alt="Second Image" style="width: 50%; height: auto;"/>
+
+<div align="center">
+<img src="firedroid.png" alt="firedroid" style="width: 30%; height: auto;"/>
 </div>
