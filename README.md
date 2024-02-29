@@ -1,4 +1,4 @@
-<img align="left" height="48%" width="48%" src="tiger.png" alt="tiger" />
+<img align="left" height="50%" width="50%" src="tiger.png" alt="tiger" />
 <h align="left" style="margin-left: 20px;">
 
 ```yml
