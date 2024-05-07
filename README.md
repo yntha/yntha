@@ -41,7 +41,7 @@ Skills:
         - Smali
         - Arm Assembly (ARM, Thumb, ARM64)
         - Vulnerabilities
-        - Packets (TCP, UDP, Custom Protocols, etc.)
+        - Network Traffic
 ```
 </h>
 
