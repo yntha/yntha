@@ -35,6 +35,12 @@ Skills:
 ```
 </h>
 
+### Support me
+BTC:
+```
+bc1qcd3ztye3f6sctpglvyzzhsvy5aezk92uegka6x
+```
+
 -------
 
 <div align="center">
