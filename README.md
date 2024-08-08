@@ -35,6 +35,11 @@ Skills:
 ```
 </h>
 
+### Contact
+Discord: @kilozz
+
+Telegram: @neosophaux
+
 ### Support me
 BTC:
 ```
