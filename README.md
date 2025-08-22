@@ -5,11 +5,11 @@
 :/sdcard $ ls
 Alarms Android DCIM Documents Download Movies Music Notifications
 Pictures Podcasts Ringtones
-:/sdcard $ cat Android/data/com.github.yntha/yntha.txt
+:/sdcard $ cat Android/data/com.github.yntha/README.md
 Hello 👋, I'm Anthy, a software engineer and a security enthusiast. 🖥️
 I have been practicing my skills in the field of security for a while
 now (since 2011). As a security enthusiast, I primarily focus on Android
-and Dalvik, but on here, you'll find a variety of subjects. 🤗
+and Dalvik, but on here, you'll find a variety of subjects.
 
 Skills:
     - Android Development:
@@ -51,3 +51,4 @@ bc1qcd3ztye3f6sctpglvyzzhsvy5aezk92uegka6x
 <div align="center">
 <img src="firedroid.png" alt="firedroid" style="width: 30%; height: auto;"/>
 </div>
+
